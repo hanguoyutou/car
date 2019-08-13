@@ -1,2 +1,2 @@
 # car
-raspberry pi self drive dev
+To develop a self drive car with raspberry pi and Python
